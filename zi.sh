@@ -1,4 +1,4 @@
-Cat > zi.sh <<'BASH'
+cat > zi.sh <<'BASH'
 #!/bin/bash
 # ZIVPN UDP + Tailwind Web Panel (Stable Panel + Multi-Login Allowed)
 # Base: JueHtet | Mods: stability (no journal scan), write-only save, manual apply, logo swap
